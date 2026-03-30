@@ -8,7 +8,8 @@ Um WebApp interativo de chat construído com Python e Streamlit, integrado à AP
 * **Chat em Tempo Real:** Interface fluida e responsiva utilizando Streamlit.
 * **Integração com LLM:** Respostas geradas pela API do Google Gemini.
 * **Prompt Engineering Embutido:** Configuração de "System Instructions" para guiar o comportamento e o tom da IA.
-* **Persistência de Histórico (SQLite):** * Criação de múltiplas sessões de chat.
+* **Persistência de Histórico (SQLite):**
+    * Criação de múltiplas sessões de chat.
     * Armazenamento de mensagens (usuário e assistente) em banco de dados relacional.
     * Recuperação de contexto: a IA lembra das mensagens anteriores da mesma sessão.
 
