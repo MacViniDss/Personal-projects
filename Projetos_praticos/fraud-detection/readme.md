@@ -8,7 +8,6 @@ Desenvolvi modelos de Machine Learning em Python (Regressão Logística, Random 
 - **Pré-processamento**: RobustScaler, tratamento de desbalanceamento (`class_weight='balanced'`)
 - **API**: Flask
 - **Interface**: Streamlit
-- **Deploy**: Docker + GCP (Cloud Run / App Engine)
 - **Ferramentas**: pandas, joblib, matplotlib, seaborn
 
 ### Dataset
